@@ -83,6 +83,9 @@ FROM MonthlyAggregates;
 # Geospatial Processing:
        Standardized 2-letter state abbreviations by engineering a custom contextual column to map global order densities correctly over SouthAmerica
            State Full Context= {customer_state} &", Brazil"
+        <img width="1360" height="747" alt="tab1_executive_sales" src="https://github.com/user-attachments/assets/3719a68d-d3aa-4113-b340-94ba93ae224a" />
+
+
            
 # 🚛 Tab 2: Logistics & Operations Optimization
 Built specifically for supply chain managers to optimize performance and prevent customer churn.
